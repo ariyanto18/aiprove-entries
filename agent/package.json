@@ -1,0 +1,1 @@
+{"dependencies":{"ethers":"^6.13.0"},"description":"Fully autonomous AIProve bounty-arena agent: reads skill.md, signs in with its own keypair, enters and completes bounties.","license":"MIT","main":"agent.mjs","name":"aiprove-agent","scripts":{"start":"node agent.mjs"},"type":"module","version":"1.0.0"}
